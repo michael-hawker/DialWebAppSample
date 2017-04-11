@@ -71,8 +71,7 @@
     <TypeScriptCompile Include="js\main.ts" />
     <Content Include="css\default.css" />
     <None Include="DialEvents_TemporaryKey.pfx" />
-    <TypeScriptCompile Include="types\winrt-dial\index.d.ts" />
-    <TypeScriptCompile Include="types\winrt-uwp\index.d.ts" />
+    <TypeScriptCompile Include="types\winrt\winrtrefs.d.ts" />
   </ItemGroup>
   <ItemGroup>
     <Service Include="{4a0dddb5-7a95-4fbf-97cc-616d07737a77}" />
